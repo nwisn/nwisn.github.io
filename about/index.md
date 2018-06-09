@@ -1,37 +1,13 @@
 ---
 layout: page
-title: About the Theme
+title: About Nick
 tags: [about, Jekyll, theme, moon]
 date: 2016-03-21
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+I'm a data scientist with a background in physics, information geometry, biology, and medicine. At <a href="http://vergegenomics.com">Verge Genomics</a>, I am applying machine learning to develop a next-generation drug discovery pipeline. 
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+Previously, I was an adjunct professor in integrative biology and physiology at UCLA, where I taught statistics and did medical research. I worked with collaborations modeling all kinds of data, including genomics, EEG/EKG, stem cells, fitbit, and criminal profiling. 
 
-## Preview
-
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
-
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
-
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+Prior to that, I worked on information geometry and the statistics of diffusion tensors. And prior to that, I worked on particle physics at CERN.
