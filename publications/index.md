@@ -6,7 +6,7 @@ date: 2016-03-21
 comments: false
 ---
     
-Y. Shi, et al. "Haploinsufficiency leads to neurodegeneration in C9ORF72 ALS/FTD human induced motor neurons." <em>Nature Medicine</em> 24.3 (2018): 313
+![Y. Shi, et al. "Haploinsufficiency leads to neurodegeneration in C9ORF72 ALS/FTD human induced motor neurons." <em>Nature Medicine</em> 24.3 (2018): 313](https://www.ncbi.nlm.nih.gov/pubmed/29400714)
 <br /><br />
 N. Wisniewski, et al. "Integrative model of leukocyte genomics and organ dysfunction in heart failure patients requiring mechanical circulatory support: a prospective observational study." <em>BMC Medical Genomics</em> 10.1 (2017): 52.
 <br /><br />
