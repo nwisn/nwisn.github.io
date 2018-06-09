@@ -5,7 +5,11 @@ tags: [about, Jekyll, theme, moon]
 date: 2016-03-21
 comments: false
 ---
-    
+
+<style type="text/css">
+a {text-decoration: none;}
+</style>
+
 [Y. Shi, et al. "Haploinsufficiency leads to neurodegeneration in C9ORF72 ALS/FTD human induced motor neurons." <em>Nature Medicine</em> 24.3 (2018): 313](https://www.nature.com/articles/nm.4490)
 
 <br /><br />
