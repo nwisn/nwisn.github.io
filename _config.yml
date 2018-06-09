@@ -3,8 +3,8 @@ remote_theme: TaylanTatli/Moon
 
 # Site
 title:              Nick Wisniewski, Ph.D.
-bio:                'Computational Biologist'
-description:        "Computational Biologist"
+bio:                'Computational Biologist / Statistician'
+description:        "Statistician"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/headshot1.png'
