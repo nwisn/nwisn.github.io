@@ -12,10 +12,10 @@ a {text-decoration: none;}
 
 [Y. Shi, et al. "Haploinsufficiency leads to neurodegeneration in C9ORF72 ALS/FTD human induced motor neurons." <em>Nature Medicine</em> 24.3 (2018): 313](https://www.nature.com/articles/nm.4490)
 
-<br />
+
 [N. Wisniewski, et al. "Integrative model of leukocyte genomics and organ dysfunction in heart failure patients requiring mechanical circulatory support: a prospective observational study." <em>BMC Medical Genomics</em> 10.1 (2017): 52.](https://bmcmedgenomics.biomedcentral.com/articles/10.1186/s12920-017-0288-8)
 
-<br />
+
 [E. Karbassi, et al. "Relationship of Disease-Associated Gene Expression to Cardiac Phenotype is Buffered by Genetic Diversity and Chromatin Regulation." <em>Physiological Genomics</em>, 2016.](https://www.physiology.org/doi/10.1152/physiolgenomics.00035.2016)
 
 <br />
