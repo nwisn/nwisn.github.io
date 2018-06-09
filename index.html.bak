@@ -1,0 +1,43 @@
+---
+layout: default
+title: Nick Wisniewski
+---
+<div class="blurb">
+	<h1>Nicholas Wisniewski, Ph.D.</h1>
+	<p> </p>
+<hr>
+
+<h2>About</h2>
+I'm a data scientist with a background in physics, information geometry, biology, and medicine. As a computational biologist at <a href="http://vergegenomics.com">Verge Genomics</a>, I apply machine learning to develop a next-generation drug discovery pipeline. Previously, I was an adjunct professor in integrative biology and physiology at UCLA, where I taught statistics and did medical research. I worked with collaborations modeling all kinds of data, including genomics, EEG/EKG, stem cells, fitbit, and criminal profiling. Prior to that, I worked on the statistics of diffusion tensors, and studied information geometry and machine learning. And prior to that, I worked on particle physics at CERN.
+
+
+</br></br>
+<hr>
+
+<h2>Projects</h2>
+Here are some Github Pages.
+	<ul>
+	<li><a href="/FilmRank">FilmRank: An R package for film festivals to rank films based on a range voting system using resampling and graph theory</a></li>
+	<li><a href="/StockNet">A weighted correlation network analysis of the U.S. stock market through 9 crashes (1992-2017)</a></li>
+	<li><a href="/MLdashboard">A machine learning dashboard in RShiny prepared for a systems biology publication </a></li>
+	<li><a href="/M200">RMarkdown tutorials for my resampling-based statistics class at UCLA (2012-2016)</a></li>
+	</ul>
+
+<hr>
+
+<h2>Selected Publications</h2>
+Shi, Yingxiao, et al. "Haploinsufficiency leads to neurodegeneration in C9ORF72 ALS/FTD human induced motor neurons." <em>Nature Medicine</em> 24.3 (2018): 313
+<br /><br />
+N. Wisniewski, et al. "Integrative model of leukocyte genomics and organ dysfunction in heart failure patients requiring mechanical circulatory support: a prospective observational study." <em>BMC Medical Genomics</em> 10.1 (2017): 52.
+<br /><br />
+E. Karbassi, et al. Relationship of Disease-Associated Gene Expression to Cardiac Phenotype is Buffered by Genetic Diversity and Chromatin Regulation. <em>Physiological Genomics</em>, 2016.
+<br /><br />
+C. Rau*, N. Wisniewski*, et al. Maximal information component analysis: a novel non-linear network analysis method. <em>Frontiers in Genetics</em> 4:28, 2013
+<br /><br />
+J.K. Gahm, et al. Linear Invariant Tensor Interpolation Applied to Cardiac Diffusion Tensor MRI. MICCAI, in <em>Lecture Notes in Computer Science</em> Volume 7511, pp494-501, 2012
+<br /><br />
+J. Weiss, et al. &ldquo;Good Enough Solutions&rdquo; and the Genetics of Complex Diseases. <em>Circulation Research</em>, 111: 493-504, 2012
+<br /><br />
+
+
+</div><!-- /.blurb -->
