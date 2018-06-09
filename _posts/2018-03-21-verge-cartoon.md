@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Verge Genomics Video"
+title:  "Verge Genomics Explanatory Video"
 date:   2018-03-21
-excerpt: "Verge Genomics moves drug discovery from the lab to the computer."
+excerpt: "How Verge Genomics moves drug discovery from the lab to the computer."
 tag:
 - sample
 - post
