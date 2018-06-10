@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Verge Genomics featured by Forbes (video)"
+title:  "Verge Genomics featured in Forbes Video"
 date:   2017-11-22
 excerpt: "Alice Zhang Is Using AI To Transform Drug Discovery - 30 Under 30 | Forbes"
 tag:
