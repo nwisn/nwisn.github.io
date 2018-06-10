@@ -2,7 +2,7 @@
 layout: post
 title: "Verge Genomics Announces Data Collaborations with NIH, Scripps, and Dresden University of Technology"
 date: 2017-11-08
-excerpt: "Verge press release: Verge Genomics Forges Parkinson’s Disease Data Collaborations with the NIH, Scripps, and Dresden University of Technology to Accelerate Preclinical Drug Development."
+excerpt: "Press release: Verge Genomics Forges Parkinson’s Disease Data Collaborations with the NIH, Scripps, and Dresden University of Technology to Accelerate Preclinical Drug Development."
 tags: [press release]
 comments: true
 ---
