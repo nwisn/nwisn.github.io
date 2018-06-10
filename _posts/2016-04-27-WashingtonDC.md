@@ -2,7 +2,7 @@
 layout: post
 title: "ISHLT 2016"
 date: 2016-09-21
-excerpt: "The International Society for Heart and Lung Transplantation 2016 conference, in Washington D.C."
+excerpt: "Presenting results at The International Society for Heart and Lung Transplantation 2016 conference, in Washington D.C."
 tags: [conferences]
 comments: true
 ---
