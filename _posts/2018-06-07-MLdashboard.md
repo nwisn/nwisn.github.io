@@ -8,6 +8,8 @@ tag:
 - github
 - UCLA
 - network analysis
+- R
+- RShiny
 comments: true
 ---
 
