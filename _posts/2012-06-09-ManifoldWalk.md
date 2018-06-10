@@ -7,6 +7,7 @@ project: true
 tag:
 - github
 - UCLA
+- Python
 - Mathematica
 - Mathematica packages
 - Alan Garfinkel
