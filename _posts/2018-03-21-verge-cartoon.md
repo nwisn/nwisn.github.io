@@ -5,7 +5,6 @@ date:   2018-03-21
 excerpt: "How Verge Genomics moves drug discovery from the lab to the computer."
 tag:
 - press release
-- post
 - video
 comments: true
 ---

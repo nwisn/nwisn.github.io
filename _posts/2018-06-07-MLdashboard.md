@@ -5,11 +5,9 @@ date:   2018-06-07
 excerpt: "A machine learning dashboard in RShiny, prepared with a systems biology dataset."
 project: true
 tag:
-- jekyll 
-- moon
-- blog
-- about
-- theme
+- github
+- UCLA
+- network analysis
 comments: true
 ---
 

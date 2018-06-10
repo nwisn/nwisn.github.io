@@ -5,7 +5,6 @@ date:   2017-11-22
 excerpt: "Alice Zhang Is Using AI To Transform Drug Discovery - 30 Under 30 | Forbes"
 tag:
 - press release
-- post
 - video
 comments: true
 ---
