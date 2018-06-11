@@ -12,7 +12,7 @@ I will be presenting results on using gene expression networks to predict mechan
 The following poster summarizes our work:
 
 <figure>
-	<a href="https://drive.google.com/open?id=1Ay3i1Zx1hRaYBZn-21lz9K07SJNSkPQG"><img src="../photos/Eigengene Poster 2015 smaller.png"></a>
+	<a href="https://drive.google.com/open?id=1Ay3i1Zx1hRaYBZn-21lz9K07SJNSkPQG"><img src="../photos/Eigengene Poster 2015.png"></a>
 </figure>
 
 
