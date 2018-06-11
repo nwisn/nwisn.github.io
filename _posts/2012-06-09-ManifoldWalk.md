@@ -12,6 +12,7 @@ tag:
 - Mathematica packages
 - Alan Garfinkel
 - Eric Demer
+- information geometry
 comments: true
 ---
 
