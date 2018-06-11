@@ -13,6 +13,7 @@ tag:
 - Alan Garfinkel
 - Eric Demer
 - information geometry
+- poster
 comments: true
 ---
 
