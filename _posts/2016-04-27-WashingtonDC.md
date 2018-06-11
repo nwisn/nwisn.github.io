@@ -3,7 +3,7 @@ layout: post
 title: "ISHLT 2016"
 date: 2016-04-27
 excerpt: "Talking about how gene networks predict medical outcomes at the International Society for Heart and Lung Transplantation 2016 conference, in Washington D.C."
-tags: [conferences, network analysis, medicine]
+tags: [conferences, network analysis, medicine, poster]
 comments: true
 ---
 

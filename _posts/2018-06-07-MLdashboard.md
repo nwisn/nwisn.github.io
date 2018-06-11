@@ -11,6 +11,7 @@ tag:
 - R
 - RShiny
 - Mario Deng
+- poster
 comments: true
 ---
 
