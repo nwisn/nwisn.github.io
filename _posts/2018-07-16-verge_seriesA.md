@@ -13,6 +13,6 @@ comments: true
 
 
 <figure>
-	<a href="https://endpts.com/backers-of-tesla-and-spacex-fund-29-year-old-alice-zhangs-ai-powered-neuroscience-startup/"><img src="../photos/verge_group_photo.png"></a>
+	<a href="https://endpts.com/backers-of-tesla-and-spacex-fund-29-year-old-alice-zhangs-ai-powered-neuroscience-startup/"><img src="../photos/verge_group_photo.jpeg"></a>
 </figure>
 
