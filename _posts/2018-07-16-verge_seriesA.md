@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Verge Genomics raises $32 million in Series A funding"
-date:   2017-11-22
+date:   2018-07-16
 excerpt: "Backers of Tesla and SpaceX fund 29-year-old Alice Zhang’s AI-powered neuroscience startup."
 tag:
 - press release
