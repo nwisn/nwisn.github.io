@@ -12,6 +12,8 @@ a {text-decoration: none;}
 
 * [Y. Shi, et al. "Haploinsufficiency leads to neurodegeneration in C9ORF72 ALS/FTD human induced motor neurons." <em>Nature Medicine</em> 24.3 (2018): 313](https://www.nature.com/articles/nm.4490)
 
+* [J. Schaenman, et al. "T cell dysfunction and patient age are associated with poor outcomes after mechanical circulatory support device implantation." <em>Human Immunology</em> 79.4 (2018): 203-212.](https://www.sciencedirect.com/science/article/abs/pii/S0198885918300223)
+
 * [N. Wisniewski, et al. "Integrative model of leukocyte genomics and organ dysfunction in heart failure patients requiring mechanical circulatory support: a prospective observational study." <em>BMC Medical Genomics</em> 10.1 (2017): 52.](https://bmcmedgenomics.biomedcentral.com/articles/10.1186/s12920-017-0288-8)
 
 * [N. Wisniewski and D. Jimenez. "Patterns of abuse: profiling child sex abuse cases using machine learning." <em>International Psychological Applications Conference and Trends</em>. Budapest, Hungary, 2017.](http://inpact-psychologyconference.org/wp-content/uploads/2017/05/InPACT-2017_Proceedings.pdf)
