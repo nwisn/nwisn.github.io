@@ -2,13 +2,15 @@
 layout: page
 title: Selected Publications
 tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+date: 2019-04-8
 comments: false
 ---
 
 <style type="text/css">
 a {text-decoration: none;}
 </style>
+
+* [A. Iyengar, et al. "Temporal expression of cytokines and B-cell phenotypes during mechanical circulatory support." <em>The Journal of Thoracic and Cardiovascular Surgery</em> (2019)](https://www.jtcvs.org/article/S0022-5223(19)30739-1/fulltext)
 
 * [Y. Shi, et al. "Haploinsufficiency leads to neurodegeneration in C9ORF72 ALS/FTD human induced motor neurons." <em>Nature Medicine</em> 24.3 (2018): 313](https://www.nature.com/articles/nm.4490)
 
