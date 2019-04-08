@@ -10,7 +10,7 @@ comments: false
 a {text-decoration: none;}
 </style>
 
-For a more complete list of publications and metrics, see my [<em>Google Scholar Profile</em>](https://scholar.google.com/citations?user=-b6mpLIAAAAJ&hl=en).
+For a more complete list of publications, see my [<em>Google Scholar Profile</em>](https://scholar.google.com/citations?user=-b6mpLIAAAAJ&hl=en).
 
 * [A. Iyengar, et al. "Temporal expression of cytokines and B-cell phenotypes during mechanical circulatory support." <em>The Journal of Thoracic and Cardiovascular Surgery</em> (2019)](https://www.jtcvs.org/article/S0022-5223(19)30739-1/fulltext)
 
